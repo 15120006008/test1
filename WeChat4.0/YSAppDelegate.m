@@ -16,6 +16,7 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    NSLog(@"Edited the app at home , and I find out that the 'resources' file did not show in the Navigator!");
     return YES;
 }
 
